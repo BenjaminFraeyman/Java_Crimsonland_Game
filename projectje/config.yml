@@ -1,0 +1,10 @@
+graphics:
+  screenWidth: 1900
+  screenHeight: 1000
+controls:
+  moveUp: w
+  moveDown: s
+  moveLeft: a
+  moveRight: d
+  reload: r
+
